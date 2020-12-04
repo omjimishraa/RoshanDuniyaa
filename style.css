@@ -1059,7 +1059,7 @@
         padding: 0 !important;
         position: relative;
         margin: 0;
-        background-image: url("/images/OurWorkTop.jpg");
+        background-image: url("images/OurWorkTop.jpg");
         background-size: cover;
         height: 465px;
         background-repeat: no-repeat;

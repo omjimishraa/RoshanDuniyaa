@@ -923,7 +923,7 @@
     /* ----------------------------------------- */
     
     .about_top_sec {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/AboutTop.jpg");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/AboutTop.jpg");
         background-size: cover;
         height: 400px;
         background-repeat: no-repeat;
